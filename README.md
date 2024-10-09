@@ -2,6 +2,7 @@
 
 Ini adalah proyek kelompok yang merencanakan perjalanan ke Belgia dan Swiss dengan tujuan mencari cokelat terenak dan terpremium well.
 
+## KELAS IF 1 2022
 ## Anggota Kelompok
 - **10122003** - Andrian Baros
 - **10122011** - Dida Aburahmani Danuwijaya
